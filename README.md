@@ -1,53 +1,18 @@
 # 💫 About Me:
-I am a motivated Machine Learning Engineer dedicated to building end-to-end AI solutions that solve real-world problems. With a strong foundation in deep learning and full-stack web development, I bridge the gap between complex models and user-centric applications.
+I am a motivated Machine Learning Engineer and B.Tech AIML student with hands-on experience in building end-to-end machine learning and deep learning solutions. I enjoy solving real-world problems using data-driven and AI-powered approaches.<br><br>I have worked on projects such as crop disease detection and pneumonia detection using CNNs and transfer learning models. Currently, I am expanding my expertise through an ML internship and continuous learning in artificial intelligence and modern technologies.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayush-choubey-b2a366281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushchoubey800@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayushchoubey62&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayushchoubey62&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchoubey62&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ayushchoubey62&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Professional Highlights
-- 🎓 **Education:** Pursuing B.Tech in Computer Science (AI & ML) at COER University, Roorkee (2023-2027)
-- 💼 **Experience:** Completed a Machine Learning Internship at Unified Mentor, building DL pipelines and classification models
-
----
-
-### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Machine Learning** | Python, TensorFlow, Keras, Scikit-learn, OpenCV |
-| **Web Development** | Flask, React.js, Tailwind CSS, HTML, CSS |
-| **GenAI & Edge** | Llama-3 (Groq API), TensorFlow.js |
-| **Tools & Databases** | SQLite, MySQL, Git, Vercel |
-
----
-
-### 🌟 Featured Projects
-
-#### 🌱 [CropDoctorAI](https://github.com/ayushchoubey62/CropDoctorAI)
-A hybrid AI-powered platform for agriculture.
-- **Core:** Detects 38 crop diseases using a custom CNN and TensorFlow.js for offline inference.
-- **GenAI:** Features "Dr. Crop," a Llama-3 chatbot for agronomy advice.
-- **Impact:** Real-time weather risk analysis and a multilingual voice interface.
-
-#### 🫁 [Pneumonia Detection App](https://github.com/ayushchoubey62/pneumonia-detection-app)
-Deep learning-powered healthcare application.
-- **Architecture:** Fine-tuned MobileNetV2 model for chest X-ray analysis.
-- **Features:** Predicts disease presence and exports professional reports as PDF.
-
----
-
-### 📊 GitHub Stats & Activity
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushchoubey62&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchoubey62&layout=compact&theme=dark)
-
----
-
-### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/ayush-choubey-b2a366281) | [Email](mailto:ayushchoubey800@gmail.com) | [Portfolio](https://my-portfolio-kappa-orpin-64.vercel.app/)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayushchoubey62&label=Profile%20Views&color=0&icon=0" alt="Visitor Count" />
-</p>
+  this is my current readme
