@@ -1,5 +1,3 @@
-# Hi, I'm Ayush Choubey 👋 
-### Machine Learning Engineer | B.Tech CSE (AI & ML) @ COER University
 
 I am a motivated Machine Learning Engineer dedicated to building end-to-end AI solutions that solve real-world problems. With a strong foundation in deep learning and full-stack web development, I bridge the gap between complex models and user-centric applications.
 
@@ -8,7 +6,6 @@ I am a motivated Machine Learning Engineer dedicated to building end-to-end AI s
 ### 🚀 Professional Highlights
 - 🎓 **Education:** Pursuing B.Tech in Computer Science (AI & ML) at COER University, Roorkee (2023-2027)
 - 💼 **Experience:** Completed a Machine Learning Internship at Unified Mentor, building DL pipelines and classification models
-- 📍 **Location:** Roorkee, Uttarakhand, India
 
 ---
 
@@ -17,9 +14,9 @@ I am a motivated Machine Learning Engineer dedicated to building end-to-end AI s
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Machine Learning** | Python, TensorFlow, Keras, Scikit-learn, OpenCV |
-| **Web Development** | Flask, React.js, Tailwind CSS, HTML5, CSS |
+| **Web Development** | Flask, React.js, Tailwind CSS, HTML, CSS |
 | **GenAI & Edge** | Llama-3 (Groq API), TensorFlow.js |
-| **Tools & Databases** | SQLite, MySQL, Git, Vercel, Render |
+| **Tools & Databases** | SQLite, MySQL, Git, Vercel |
 
 ---
 
