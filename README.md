@@ -36,14 +36,10 @@ Deep learning-powered healthcare application.
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushchoubey62&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchoubey62&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
+![Ayush's Stats](https://github-readme-stats.vercel.app/api?username=ayushchoubey62&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchoubey62&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="left">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ayushchoubey62&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayushchoubey62&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -52,5 +48,5 @@ Deep learning-powered healthcare application.
 
 ---
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ayushchoubey62&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=ayushchoubey62&icon=0&color=0" alt="Visitor Count" />
 </p>
