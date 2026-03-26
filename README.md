@@ -36,17 +36,28 @@ Deep learning-powered healthcare application.
 ---
 
 ### 📊 GitHub Stats & Activity
-![Ayush's Stats](https://github-readme-stats.vercel.app/api?username=ayushchoubey62&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchoubey62&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayushchoubey62&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushchoubey62&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Ayush's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchoubey62&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushchoubey62&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-choubey-b2a366281) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushchoubey800@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://my-portfolio-kappa-orpin-64.vercel.app/)
+
+<div align="left">
+  <a href="https://linkedin.com/in/ayush-choubey-b2a366281"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ayushchoubey800@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://my-portfolio-kappa-orpin-64.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+</div>
 
 ---
+
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ayushchoubey62&icon=0&color=0" alt="Visitor Count" />
 </p>
